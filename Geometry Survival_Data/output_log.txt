@@ -1,0 +1,100 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 850M (ID=0x1391)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   20.19.15.4549
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.345 seconds
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Cezar Pirvu\Desktop\DTU\Second Year\Introduction to Computer Game Prototyping\Geometry Survival\Geometry Survival_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.334868 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.107608 ms
+
+Unloading 30 unused Assets to reduce memory usage. Loaded Objects now: 490.
+Total: 2.284280 ms (FindLiveObjects: 0.059529 ms CreateObjectMapping: 0.039823 ms MarkObjects: 0.360459 ms  DeleteObjects: 1.824057 ms)
+
+Total 2 Size 260
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 3 Size 257
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+257
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 2 Size 251
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 4 Size 247
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 6 Size 241
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+241
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 3 Size 229
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 6 Size 223
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 9 Size 214
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+214
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 4 Size 197
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 8 Size 189
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Total 12 Size 177
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.413192 ms
+
+Unloading 181 unused Assets to reduce memory usage. Loaded Objects now: 551.
+Total: 1.034987 ms (FindLiveObjects: 0.044339 ms CreateObjectMapping: 0.032843 ms MarkObjects: 0.548490 ms  DeleteObjects: 0.408083 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1774 -> priority: 1 
+  Thread -> id: 1c64 -> priority: 1 
